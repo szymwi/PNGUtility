@@ -18,7 +18,9 @@ and others...
 
 ## Installation
 Install as AppsScript library using following ID:
-`1uo7WeG0VaP4nzmgw_JfCs-GwkDsxfVbOyG3DhzP9HIaSE9i-h1u0M90A`
+```
+1uo7WeG0VaP4nzmgw_JfCs-GwkDsxfVbOyG3DhzP9HIaSE9i-h1u0M90A
+```
 Note: The library is running only in V8 environment.
 
 ## Sample
