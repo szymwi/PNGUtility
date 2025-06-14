@@ -173,7 +173,7 @@ class Image {
   }
   /**
    * Returns image as image/png Blob type
-   * @Param {string} name optional blob name
+   * @param {string} name optional blob name
    * @returns {Blob} AppsScript engine Blob instance
    */
   toBlob(name) {
