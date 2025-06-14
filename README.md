@@ -1,5 +1,5 @@
 # PNGUtility
-Simple class improving your work with PNG images within AppsScript environment
+The package includes simple class improving your work with PNG images within AppsScript environment
 
 ## Review
 **PNGUtility** provides `Image` class - it’s simple but improves your work with PNG images within AppsScript environment.
