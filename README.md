@@ -13,7 +13,6 @@ The Image class provides following operations:
 * `crop` - Image canvas cropping and stretching
 * `scale` - Image scaling (with bilinear interpolation)
 * `toBase64`/`ImageFromBase64` To/From Base64 conversion
-* `toCellImg` - To CellImage conversion (Sheets)
 
 and others...
 
